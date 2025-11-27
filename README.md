@@ -6,6 +6,12 @@ Depozit de exercițiu folosit la laborator pentru a demonstra utilizarea de baz�
 
 - UI Libraries: https://www.figma.com/design/WqKLaLxEzx1SHB0fjsmebw/Laborator-UI-Libraries
 
+## Lucrari de laborator
+- https://www.figma.com/design/fpTIzx3OEWzEIt7XSveNfi/Los-Pollos-Hermanos-Ad
+- https://www.figma.com/design/VweUOBUybZMgtuXY6vM1BP/Exercitiu-Animatie-Obiect
+- https://www.figma.com/design/nDbnLEUnJhHEhfg3KqMoQc/Profil-Glass
+- https://www.figma.com/design/7z1kjEUO6Ov3B6u2Lr5RgG/Exercitiu-Profil
+
 ## Scop
 
 - Acest repository este un spațiu simplu de laborator care arată că studentul știe să inițializeze un repo, să facă commit și să împingă modificările către GitHub.
